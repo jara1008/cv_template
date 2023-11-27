@@ -7,7 +7,7 @@ This is a simple template to make a CV with Latex. The layout can be further cus
 In the main.tex file are still some errors when using "\begin{document}" and "\makesidebar". These could be fixed in the future. However when generating a PDF those errors are not noticable.
 
 ### Acknowledgements
-Since I am new to Latex I want to thank my friend [@fll128](https://github.com/fll128) for helping me with this template!
+Since I am new to Latex I want to thank my friend [@FLL128](https://github.com/fll128) for helping me with this template!
 
 <br />
 
